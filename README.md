@@ -45,6 +45,7 @@ Notes
 
 - Ensure `data.py` runs successfully to generate `Statistics.xlsx` before running `plott.py`.
 - `plott.py` relies on the structure and content of `Statistics.xlsx` created by `data.py`.
+- Make sure to use the sheet provided in the repository, as the original sheet did not have the necessary formatting.
 
 Conclusion
 
